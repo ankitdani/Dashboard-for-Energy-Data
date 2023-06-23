@@ -13,7 +13,6 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-
 @Route("")
 public class MainView extends VerticalLayout {
     private Grid<DataItem> grid;
